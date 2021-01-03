@@ -7,7 +7,7 @@ This project demonstrates how Python can be used to create an automated process 
 
 The election commission is looking to generate code that provides a vote count report for each candidate in each county in the precinct. By creating a general outline to report the total number of votes alongside the number of votes recieved by each candidate, the project will have the ability to be used not only for this election audit, but other elections as well. 
 
-## Election Audit Results: 
+## Election Audit Results
 The image below is the results for the election outcomes:
 
 
