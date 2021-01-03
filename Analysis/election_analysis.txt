@@ -8,7 +8,12 @@ County Votes:
 ['Jefferson', 'Denver', 'Arapahoe']:10.51% (38855)
 ['Jefferson', 'Denver', 'Arapahoe']:82.78% (306055)
 ['Jefferson', 'Denver', 'Arapahoe']:6.71% (24801)
-DenverCharles Casper Stockham: recieved 23.05% of the voteDiana DeGette: recieved 73.81% of the voteRaymon Anthony Doane: recieved 3.14% of the vote-------------------------
+The largest county is Denver
+-------------------------
+Charles Casper Stockham: recieved 23.05% of the vote
+Diana DeGette: recieved 73.81% of the vote
+Raymon Anthony Doane: recieved 3.14% of the vote
+-------------------------
 Winner: Diana DeGette
 Winning Vote Count: 272,892
 Winning Percentage: 73.8%
